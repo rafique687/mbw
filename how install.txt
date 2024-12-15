@@ -1,0 +1,7 @@
+mbw ecommece
+http://localhost/mbw/
+
+backend
+http://localhost/mbw/dashboard
+user : admin@admin.com
+pass :123456
